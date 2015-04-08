@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme">
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+</resources>
